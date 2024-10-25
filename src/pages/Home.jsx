@@ -13,13 +13,13 @@ import Dashboard from './Admiin/Dash/Dash';
 function Home() {
   return (
     <div>
- <Nav/>
- <Hero/>
- <Detail/>
- <Testis/>
- <Message/>
- <Footer/>
- {/* <Dashboard/> */}
+      <Nav />
+      <Hero />
+      <Detail />
+      <Testis />
+      <Message />
+      <Footer />
+
     </div>
   );
 }

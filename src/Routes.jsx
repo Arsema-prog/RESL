@@ -26,7 +26,7 @@ function AppRoutes() {
         <Route path='/pend' element={<Pend />} />
         <Route path='/noti' element={<Notification />} />
         <Route path='/ladmin' element={<LAdmin />} />
-        
+
 
 
       </Routes>
